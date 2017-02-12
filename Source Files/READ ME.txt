@@ -1,0 +1,2 @@
+Run AWC.py (Automatic Word Completion) script in order to run program. AWC initializes the objects, creates the
+threads, and then tells KeyboardHandler to start pumping messages.
